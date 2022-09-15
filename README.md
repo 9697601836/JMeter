@@ -149,6 +149,7 @@ Resp.
 Тесты:
 
 Задание ***
+
 0) Изучать как работают Response Assertion.
 1) Сделать Assertion на провекрку статус код 200
 2) Сделать Assertion на провекрку 'salary': salary
